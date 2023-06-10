@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1626955631 source:d:\5 semestre\pozzer\canvas2d\3d\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1603974868 d:\5 semestre\pozzer\canvas2d\3d\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1426372440 d:\5 semestre\pozzer\canvas2d\3d\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 d:\5 semestre\pozzer\canvas2d\3d\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 d:\5 semestre\pozzer\canvas2d\3d\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 d:\5 semestre\pozzer\canvas2d\3d\src\vector2.h
+
+1686368066 source:d:\5 semestre\pozzer\canvas2d\3d\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"ambiente/Ambiente.h"
+
+1589214882 d:\5 semestre\pozzer\canvas2d\3d\src\bola.h
+	"gl_canvas2d.h"
+
+1193164156 d:\5 semestre\pozzer\canvas2d\3d\src\relogio.h
+	"gl_canvas2d.h"
+
+1589214891 d:\5 semestre\pozzer\canvas2d\3d\src\botao.h
+	"gl_canvas2d.h"
+
+1589218349 source:d:\5 semestre\pozzer\canvas2d\3d\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1626955631 source:d:\5 semestre\pozzer\canvas2d\3d\src\utils\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1686363585 d:\5 semestre\pozzer\canvas2d\3d\src\utils\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1589217858 d:\5 semestre\pozzer\canvas2d\3d\src\utils\vector2.h
+
+1686362744 source:d:\5 semestre\pozzer\canvas2d\3d\src\agente\agente.cpp
+	"Agente.h"
+	<stdio.h>
+
+1686282153 d:\5 semestre\pozzer\canvas2d\3d\src\agente\agente.h
+	"../utils/Vector3.h"
+
+1686362813 d:\5 semestre\pozzer\canvas2d\3d\src\utils\vector3.h
+	<cmath>
+
+1686363440 source:d:\5 semestre\pozzer\canvas2d\3d\src\ambiente\ambiente.cpp
+	"Ambiente.h"
+
+1686363003 d:\5 semestre\pozzer\canvas2d\3d\src\ambiente\ambiente.h
+	"../agente/Agente.h"
+	"../formas/Formas.h"
+
+1686341997 d:\5 semestre\pozzer\canvas2d\3d\src\formas\formas.h
+	"Matriz.h"
+	<vector>
+	<math.h>
+	<time.h>
+
+1686363256 source:d:\5 semestre\pozzer\canvas2d\3d\src\formas\formas.cpp
+	"Formas.h"
+
+1686364122 d:\5 semestre\pozzer\canvas2d\3d\src\formas\matriz.h
+	"../utils/Vector3.h"
+	"../utils/gl_canvas2d.h"
+
